@@ -43,3 +43,8 @@
     Giả sử hệ thống tiền có thêm các mệnh giá với số bắt đầu khác, ví dụ các mệnh giá bắt đầu bằng số 7 (700, 7000, ...).  
     Hãy cho biết các hàm trên có còn hoạt động chính xác hay không (nếu như không phải vét cạn)?  
     Hãy cho biết có cách giải nào khác ngoài vét cạn để giải trường hợp này hay không?
+
+* Điều hướng:
+    - [Bài làm (C#)](CSharp)
+    - [Bài làm (Java)](Java)
+    - [Bài làm (JS)](Js)
