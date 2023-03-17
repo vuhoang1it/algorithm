@@ -43,3 +43,9 @@
     Let assume the currency include some other denomination with different start number, for example denominations that start with 7 (700, 7000, ...).  
     Does the function still work properly (assuming the function is not brute force)?  
     Is there anyway other than brute force approach to solve this case?
+
+* Navigate:
+    - [Problem (vie)](README.vie.md)
+    - [Start Coding (C#)](CSharp)
+    - [Start Coding (Java)](Java)
+    - [Start Coding (JS)](Js)
