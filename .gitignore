@@ -1,13 +1,16 @@
+# common
+**/test
+
 # csharp
-/Exercises/*/CSharp/bin
-/Exercises/*/CSharp/obj
+**/bin
+**/obj
 **/.vscode
 
 # java
 **/.metadata
-/Exercises/*/Java/*/.idea
-/Exercises/*/Java/*/.settings
-/Exercises/*/Java/*/target
+**/.idea
+**/.settings
+**/target
 
 **/.classpath
 **/.project
@@ -18,6 +21,3 @@
 **/*.iws
 **/*.iml
 **/*.ipr
-
-/Exercises/*/Java/*/src/*
-!/Exercises/*/Java/*/src/main
