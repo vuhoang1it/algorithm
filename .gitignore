@@ -1,0 +1,23 @@
+# csharp
+/Exercises/*/CSharp/bin
+/Exercises/*/CSharp/obj
+**/.vscode
+
+# java
+**/.metadata
+/Exercises/*/Java/*/.idea
+/Exercises/*/Java/*/.settings
+/Exercises/*/Java/*/target
+
+**/.classpath
+**/.project
+**/.apt_generated
+**/.classpath
+**/.factorypath
+**/*.class
+**/*.iws
+**/*.iml
+**/*.ipr
+
+/Exercises/*/Java/*/src/*
+!/Exercises/*/Java/*/src/main
