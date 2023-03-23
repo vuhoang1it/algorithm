@@ -45,6 +45,6 @@
     Hãy cho biết có cách giải nào khác ngoài vét cạn để giải trường hợp này hay không?
 
 * Điều hướng:
-    - [Bài làm (C#)](CSharp)
-    - [Bài làm (Java)](Java)
-    - [Bài làm (JS)](Js)
+    - [Bài làm (C#)](CSharp/atm)
+    - [Bài làm (Java)](Java/atm)
+    - [Bài làm (JS)](Js/atm)
