@@ -1,0 +1,28 @@
+# common
+**/test
+
+# csharp
+**/bin
+**/obj
+**/.vscode
+
+# java
+**/.metadata
+**/.idea
+**/.settings
+**/target
+
+**/.classpath
+**/.project
+**/.apt_generated
+**/.classpath
+**/.factorypath
+**/*.class
+**/*.iws
+**/*.iml
+**/*.ipr
+
+# js
+**/node_modules
+**/package-lock.json
+**/package.json

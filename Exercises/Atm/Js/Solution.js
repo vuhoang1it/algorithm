@@ -1,4 +1,0 @@
-function atmSolution(n)
-{
-    // TODO
-}
